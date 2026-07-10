@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ocean Tracker">
+  <rect width="512" height="512" rx="112" fill="#17333b"/>
+  <circle cx="374" cy="146" r="48" fill="#d99a52"/>
+  <path d="M82 279c45 0 45 39 90 39s45-39 90-39 45 39 90 39 45-39 90-39" fill="none" stroke="#e8f1ef" stroke-width="34" stroke-linecap="round"/>
+  <path d="M82 366c45 0 45 39 90 39s45-39 90-39 45 39 90 39 45-39 90-39" fill="none" stroke="#7fc8bd" stroke-width="34" stroke-linecap="round"/>
+  <path d="M116 165c36-42 88-68 146-68 31 0 60 7 86 20-31 5-58 24-74 51-21 36-18 82 8 114-12 2-25 4-38 4-56 0-106-24-141-62" fill="none" stroke="#f7fbfa" stroke-width="26" stroke-linecap="round"/>
+</svg>
