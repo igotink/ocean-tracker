@@ -1,0 +1,27 @@
+{
+  "name": "Ocean Tracker",
+  "short_name": "Ocean",
+  "description": "Daily ocean conditions and personal cold-water logs for Muizenberg and St James.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#e8f1ef",
+  "theme_color": "#17333b",
+  "categories": ["weather", "lifestyle", "sports"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
