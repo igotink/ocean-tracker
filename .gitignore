@@ -1,0 +1,8 @@
+.env
+node_modules/
+dist/
+.vercel/
+.vercel-tool-home/
+.tool-cache/
+.pnpm-home/
+.pnpm-store/
